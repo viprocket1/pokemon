@@ -118,43 +118,4 @@ The project has been deployed with [Heroku Buildpack for create-react-app](https
 [Heroku Live Demo Link](https://react-capstonejsx.herokuapp.com/) :point_left:
 
 <!-- CONTACT -->
-## Contributors
 
-👤 **Alexandru Bangau**
-
-- LinkedIn: [Alexandru Bangau](https://www.linkedin.com/in/alexandru-bangau/)
-- GitHub: [@rammazzoti2000](https://github.com/rammazzoti2000)
-- E-mail: bangau.alexandru@gmail.com
-
-## :handshake: Contributing
-
-Contributions, issues and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/rammazzoti2000/react_capstone/issues).
-
-## Show your support
-
-Give a :star: if you like this project!
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [Microverse](https://www.microverse.org/)
-* [The Odin Project](https://www.theodinproject.com/)
-* [React Documentation](https://reactjs.org/docs/getting-started.html)
-* [Heroku Documentation](https://devcenter.heroku.com/)
-* [Heroku Buildpack](https://github.com/mars/create-react-app-buildpack#user-content-requires)
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/rammazzoti2000/react_capstone.svg?style=flat-square
-[contributors-url]: https://github.com/rammazzoti2000/react_capstone/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/rammazzoti2000/react_capstone.svg?style=flat-square
-[forks-url]: https://github.com/rammazzoti2000/react_capstone/network/members
-[stars-shield]: https://img.shields.io/github/stars/rammazzoti2000/react_capstone.svg?style=flat-square
-[stars-url]: https://github.com/rammazzoti2000/react_capstone/stargazers
-[issues-shield]: https://img.shields.io/github/issues/rammazzoti2000/react_capstone.svg?style=flat-square
-[issues-url]: https://github.com/rammazzoti2000/react_capstone/issues
-
-## 📝 License
-
-This project is [MIT](https://opensource.org/licenses/MIT) licensed.
